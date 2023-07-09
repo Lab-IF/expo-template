@@ -1,6 +1,4 @@
-# Laboratorium Informatika
-
-## UNIVERSITAS MUHAMMADIYAH MAKASSAR
+# Laboratorium Informatika, Universitas Muhammadiyah Makassar
 
 ### Lab Komputasi Bergerak - Expo Basic
 
